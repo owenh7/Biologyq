@@ -1,2 +1,5 @@
+$(document).ready(function(){
+$("button").click(function(){
+    $(":button").hide();
+});
 
-<button>Click me</button>
