@@ -5,3 +5,4 @@ $(document).ready(function(){
   });
 });
 </script>
+<button>Click me</button>
