@@ -1,5 +1,5 @@
 $(document).ready(function(){
- $("button").click(function(){
-    $(":button").hide();
+ $("#Next").click(function(){
+    $("q1.png").hide();
  });
 });
