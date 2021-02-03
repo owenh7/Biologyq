@@ -1,5 +1,9 @@
 $(document).ready(function(){
  $("#Next").click(function(){
-    $("q1.png").hide();
+    $("p1").hide();
+      $("p2").show();
  });
+  $("#Previous").click(function(){
+     $("p3").hide();
+       $("p4").show();
 });
