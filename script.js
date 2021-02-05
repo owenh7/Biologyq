@@ -1,6 +1,6 @@
 $(document).ready(function(){
- $("div#answer1").hide();
-  $("div#answer2").hide();
+ $("#answer1").hide();
+  $("#answer2").hide();
    $("#Hide_All").click(function(){
     $("#answer1").hide();
       $("#answer2").hide();
