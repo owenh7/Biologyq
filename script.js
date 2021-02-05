@@ -27,4 +27,4 @@ $(document).ready(function(){
   $("#Answer6").click(function(){
        $("#answer6").show();
   });
-}):
+});
