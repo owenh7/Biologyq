@@ -1,10 +1,8 @@
 $(document).ready(function(){
- $("#Next").click(function(){
-    $("p1").hide();
-      $("p2").show();
+ $("#Hide_All").click(function(){
+    $("p").hide();
  });
-  $("#Previous").click(function(){
-     $("p3").hide();
-       $("p4").show();
+  $("#Show_All").click(function(){
+       $("p").show();
 });
 });
