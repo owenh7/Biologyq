@@ -1,5 +1,7 @@
 $(document).ready(function(){
- $("#Hide_All").click(function(){
+ $("div#answer1").hide();
+  $("div#answer2").hide();
+   $("#Hide_All").click(function(){
     $("#answer1").hide();
       $("#answer2").hide();
  });
