@@ -9,3 +9,4 @@ $(document).ready(function(){
   $("#Answer2").click(function(){
        $("#answer2").show();
 });
+});
