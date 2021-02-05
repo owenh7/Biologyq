@@ -4,6 +4,10 @@ h1 {
   text-align: center;
 }
 
+p {
+  font-size: 25px;
+}
+
 #question1 {
   color: green;
 }
