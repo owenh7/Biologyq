@@ -1,8 +1,11 @@
 $(document).ready(function(){
  $("#Hide_All").click(function(){
-    $("p").hide();
+    $("#answer1").hide();
+      $("#answer2").hide();
  });
-  $("#Show_All").click(function(){
-       $("p").show();
+  $("#Answer1").click(function(){
+       $("#answer1").show();
 });
+  $("#Answer2").click(function(){
+       $("#answer2").show();
 });
